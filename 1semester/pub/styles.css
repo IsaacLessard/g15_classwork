@@ -1,0 +1,92 @@
+
+
+html, body, header, footer {
+  margin: 0 auto;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.menu {
+  padding-top: 9em;
+  float: left;
+  display: inline-block;
+  width: 20vw;
+  height: 100vh;
+  background-color: #668888;
+  font-family: "Futura", Courier, monospace;
+  position: fixed;
+}
+
+.content {
+  width: 80vw;
+  height: 100vh;
+  float: right;
+}
+
+#about {
+  background-color:hsla(125, 100%, 50%, .75);
+}
+
+#home {
+
+}
+
+.two {
+  background-color:hsla(125, 100%, 50%, .75);
+}
+
+.logo {
+  height: 100vw;
+  width: 100vh;
+}
+
+.circle {
+  border-radius: 50px;
+  background-color: hsla(125, 100%, 50%, .75);
+  vertical-align: center;
+  margin: 0 auto;
+  height: 8em;
+  width: 8em;
+}
+
+.logo h1{
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 800;
+  padding-bottom: 20px;
+  font-size: 2em;
+  position: relative;
+
+}
+
+
+
+
+.future {
+	background-color: hsla(25, 100%, 50%, .75);
+}
+
+.contact {
+	background-color: hsla(120, 10%, 50%, .75);
+}
+
+.main {
+	background: url(assets/images/prairie.jpg);
+
+
+}

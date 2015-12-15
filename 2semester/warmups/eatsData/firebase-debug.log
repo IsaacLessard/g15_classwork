@@ -1,0 +1,56 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/4.2.1/bin/node /usr/local/bin/firebase deploy
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.1
+[debug] Time:         Tue Dec 08 2015 09:23:11 GMT-0700 (MST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'eatsData'...
+[info] 
+[info] i  deploying hosting
+[info] i  preparing public directory for upload...
+[warn] ⚠  Warning: Public directory does not contain index.html
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/firebase/eatsData/uploads/-K51OpWdzM0nE7f3upMC?token=XXX&fileCount=1&message= 
+[debug] <<< HTTP RESPONSE 200
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/4.2.1/bin/node /usr/local/bin/firebase deploy
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.1
+[debug] Time:         Tue Dec 08 2015 09:23:57 GMT-0700 (MST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'eatsData'...
+[info] 
+[info] i  deploying hosting
+[info] i  preparing public directory for upload...
+[warn] ⚠  Warning: Public directory does not contain index.html
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/firebase/eatsData/uploads/-K51P-XlFgbAXoRADOH3?token=XXX&fileCount=1&message= 
+[debug] <<< HTTP RESPONSE 200
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/Cellar/node/4.2.1/bin/node /usr/local/bin/firebase deploy
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.1
+[debug] Time:         Tue Dec 08 2015 09:24:09 GMT-0700 (MST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/eatsData/token?token=XXX 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'eatsData'...
+[info] 
+[info] i  deploying hosting
+[info] i  preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/firebase/eatsData/uploads/-K51P2osLCmyQSlgwe42?token=XXX&fileCount=2&message= 
+[debug] <<< HTTP RESPONSE 200

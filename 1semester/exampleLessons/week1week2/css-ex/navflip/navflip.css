@@ -1,0 +1,27 @@
+
+
+
+nav {
+  width: auto;
+  height: 2em;
+  background-color: grey;
+  color: white;
+}
+
+nav a {
+  display: inline-block;
+  float: left;
+  padding-right: 2em;
+  color: white;
+  padding-top: .5em;
+}
+
+.dropDown {
+  width: 60px;
+  height: 60px;
+  display: none;
+}
+.about:hover {
+  display: block;
+
+}

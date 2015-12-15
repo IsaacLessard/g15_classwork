@@ -1,0 +1,53 @@
+
+
+
+.bearbox {
+  width: 48em;
+  height: 10em;
+  border: 2px solid black;
+  margin-bottom: 2.5em;
+}
+
+
+.lefter {
+  float: left;
+  border: 2px solid black;
+  width: 5em;
+  height: 5em;
+  margin: 2em;
+
+}
+
+.leftBox {
+  width: 15%;
+  height: 100%;
+  float: left;
+}
+
+.rightBox {
+  width: 80%;
+  height: 100%;
+  float: right;
+}
+
+.text {
+  margin-top: 1.6em;
+  margin-bottom: 3em;
+}
+
+.buttons {
+  border: 2px solid black;
+  width: 2em;
+  height: 2em;
+  float: left;
+
+}
+
+.rightBox h3 {
+  float: left;
+  margin: 1em;
+}
+
+.but {
+  float: left;
+}

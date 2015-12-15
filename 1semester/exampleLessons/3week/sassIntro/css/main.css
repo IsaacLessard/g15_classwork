@@ -1,0 +1,17 @@
+.foo {
+  background: orange;
+  border: 10px solid green;
+  padding: 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  font-size: 0.75em; }
+  .foo.block {
+    color: blue; }
+  .foo p {
+    color: blue;
+    font-size: 2em;
+    font-weight: bold; }
+
+.main {
+  color: black; }
+
+/*# sourceMappingURL=main.css.map */

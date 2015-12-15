@@ -1,0 +1,31 @@
+
+
+//$borderColor: #ccc;
+
+@mixin dialog-box($border-color) {
+  border: 10px solid $border-color;
+  padding: 10px;
+  box-shadow:  0 0 30px rgba(0,0,0,0.5);
+}
+
+
+.foo { // asdfadsfsd
+  background: orange; //asdfdassdf
+  //add in border, padding, box-shadow
+  @include dialog-box(green);
+  font-size: (12/16) *1em;
+  &.block {
+    color: blue;
+  }
+  p {
+    color: blue;
+    font: {
+      size:2em;
+      weight:bold;
+    }
+  }
+}
+
+.main {
+  color: black;
+}

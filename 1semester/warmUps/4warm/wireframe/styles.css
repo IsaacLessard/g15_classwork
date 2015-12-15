@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.main {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Arvo', serif;
+  position: relative;
+}
+.hero {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  text-align: right;
+
+
+}
+
+
+.heroHeader {
+  font-size: 5em;
+  padding-top: 3em;
+  color: black;
+  /*border-bottom: 2px solid black;*/
+  /*text-shadow: 2px 2px grey;*/
+  z-index: 1;
+  position: absolute;
+  bottom: 2em;
+  right: 1em;
+}
+
+.heroPitch {
+  font-size: 2em;
+  color: black;
+    /*text-shadow: 2px 2px grey;*/
+    z-index: 1;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
