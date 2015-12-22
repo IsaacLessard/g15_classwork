@@ -1,0 +1,14 @@
+{
+  "name": "expract",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express3-handlebars": "^0.5.2"
+  }
+}
